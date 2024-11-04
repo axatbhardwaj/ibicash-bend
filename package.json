@@ -1,0 +1,15 @@
+{
+  "name": "ibicash-bend",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.7",
+    "dotenv": "^10.0.0",
+    "express": "^4.21.1",
+    "joi": "^17.13.3"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
